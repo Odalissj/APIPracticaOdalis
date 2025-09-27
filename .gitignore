@@ -1,0 +1,28 @@
+# VS / .NET
+.vs/
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.db
+*.db-wal
+*.db-shm
+*.ipch
+*.opendb
+*.VC.db
+*.pdb
+*.vsix
+*.vscode/
+
+# IIS Express / config locales
+applicationhost.config
+
+# Otros temporales
+*.tmp
+*.log
+*.rsuser
